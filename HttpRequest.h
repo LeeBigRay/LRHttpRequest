@@ -11,7 +11,7 @@
 typedef void(^LRResponseSuccess)(id responseObject);
 
 typedef void(^LRResponseFail)(NSError *error);
-
+////////
 
 @interface HttpRequest : NSObject
 
